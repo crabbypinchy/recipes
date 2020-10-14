@@ -1,7 +1,7 @@
 
 # Avocado Toast
 
-## Ingredients:
+## Ingredients
 
 * 1 avocado
 * 2 slices bread
@@ -12,7 +12,9 @@
 * Kosher salt
 * Maybe 2 eggs
 
-## Directions:
+## Directions
+
+HOW DO I INSERT A NUMBERING SEQUENCE?
 
 Mince garlic and place in small bowl with butter.  Microwave 30 sec.
 
