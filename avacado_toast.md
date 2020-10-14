@@ -10,6 +10,7 @@
 * Olive oil
 * Crushed red pepper
 * Kosher salt
+* Maybe 2 eggs
 
 ## Directions:
 
@@ -18,6 +19,8 @@ Mince garlic and place in small bowl with butter.  Microwave 30 sec.
 Pour garlic butter on top of both slices of bread.  Spread.
 
 Toast garlic bread on medium in toaster oven.
+
+If it's breakfast time, start frying two eggs.
 
 Scoop avocado meat.  Roughly chop it with a large knive and then smash with the knive side.
 
