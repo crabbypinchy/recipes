@@ -1,13 +1,13 @@
 # Soup Nagasaki
 
-## Ingredients:
+## Ingredients
 
-* One can soup, any flavor
+* 1 can of soup, any flavor
 
-## Directions:
+## Directions
 
 Preheat oven to 450 degrees.
 
-Place can of soup, unopnened, in oven
+Place can of soup, unopened, in oven
 
-Wait one hour.
+Wait one hour
