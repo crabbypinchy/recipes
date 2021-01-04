@@ -8,6 +8,10 @@
 
 Preheat oven to 450 degrees.
 
-Place can of soup, unopened, in oven
+Open soup
 
-Wait one hour
+Pour in oven safe dish
+
+Place soup in oven
+
+Wait 10 minutes
